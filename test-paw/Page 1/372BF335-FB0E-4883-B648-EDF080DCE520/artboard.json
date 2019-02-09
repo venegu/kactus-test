@@ -49,6 +49,10 @@
     {
       "class": "rectangle",
       "id": "0DC1EADF-1EEE-4DB1-AD35-3E1D0E0DA974"
+    },
+    {
+      "class": "oval",
+      "id": "57F062FE-1F10-49F7-9B4C-FA3E864C8365"
     }
   ],
   "name": "tr",
