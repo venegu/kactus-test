@@ -41,8 +41,8 @@
       "id": "372BF335-FB0E-4883-B648-EDF080DCE520"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Web",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
